@@ -1,0 +1,16 @@
+body {
+    background-color: rgba(238, 255, 0, 0.226);
+    
+}
+
+div.container {
+    text-align: justify;
+}
+
+.titulo{
+   text-align: center;
+}
+
+.img{
+    text-align: center;
+}
